@@ -1,4 +1,4 @@
-# Pareto-style-analysis
+# Pareto Style Analysis
 
 ## Project Background
 Poly's Home Decor is a global e-commerce company that sells vintage items and home decor products worldwide.
@@ -14,5 +14,31 @@ An interactive Tableau dashboard can be downloaded [here](https://public.tableau
 
 The SQL queries used to clean, organize and prepare data for excel and tableau can be found [here](https://github.com/poly-graphene/Pareto-style-analysis/blob/main/MySQL%20cleaning%20and%20aggregation%20script.sql)
 
-The Excel spreadsheet for evaluating product type based on Pareto principle can be found [here]()
+The Excel spreadsheet for evaluating product type based on Pareto principle can be found [here](https://docs.google.com/spreadsheets/d/1pv3j8eqFQWqfaSDDzA-kwFTNFf2A6EMBXSL6-ZG0XJY/edit?usp=sharing)
+
+# Data Structure
+
+Poly's Home Decor's database consists of one table with a total row count of 527943 records.
+A sample data of 100k rows is added to the repository due to Github's file size limitations. Full dataset can be downloaded [here](https://drive.google.com/file/d/1a_z-tYYrL4zS2ieDg24DDeWiyJmAHQS-/view?usp=drive_link)
+
+<img width="174" height="190" alt="image" src="https://github.com/user-attachments/assets/dba226b3-36e8-4610-97ec-7c429c406e5c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
