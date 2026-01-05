@@ -12,4 +12,7 @@ Concentration Ratio: Evaluation of core revenue products' contribution to total 
 
 An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/views/PortfolioProjectDashboard_17674032940670/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-The SQL queries used to clean, organize and prepare data for excel and tableau can be found [here]()
+The SQL queries used to clean, organize and prepare data for excel and tableau can be found [here](https://github.com/poly-graphene/Pareto-style-analysis/blob/main/MySQL%20cleaning%20and%20aggregation%20script.sql)
+
+The Excel spreadsheet for evaluating product type based on Pareto principle can be found [here]()
+
