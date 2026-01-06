@@ -46,7 +46,9 @@ Based on the uncovered insights and analysis, the following recommendations has 
 - Consistently low performing products can be sold with promotions and bundles, or their inventory stocks can be reduced to increase shelf space for high-potential products.
 - Inventory availability for top products can be prioritized to avoid stockouts since they drive majority of company revenue.
 
+# Caveats and Assumptions
 
+- Special transactions such as returns and company expenses have been removed from the dataset and saved in a separate table for reliable analysis.
 
 
 
