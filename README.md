@@ -34,6 +34,10 @@ Below is the overview page from the Tableau dashboard. The interactive Tableau d
 
 <img width="1149" height="549" alt="Dashboard Image" src="https://github.com/user-attachments/assets/5a12a392-353a-46fb-8f50-42e94ceb1109" />
 
+Below is a sample spreadsheet used to apply Pareto logic and identify core revenue drivers. Full Excel spreadsheet can be found [here.](https://docs.google.com/spreadsheets/d/1pv3j8eqFQWqfaSDDzA-kwFTNFf2A6EMBXSL6-ZG0XJY/edit?usp=sharing)
+
+<img width="904" height="247" alt="Screenshot 2026-01-05 175110" src="https://github.com/user-attachments/assets/ee23d239-8284-457c-a9fa-706bbc1f737a" />
+
 # Recommendations
 
 Based on the uncovered insights and analysis, the following recommendations has been provided:
